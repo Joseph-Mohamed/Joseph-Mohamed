@@ -20,11 +20,11 @@
 
 ### 💫 About Me
 
-* 🎓 **Computer Science Student** specializing in **Artificial Intelligence** at Ahram Canadian University[cite: 1].
-* 💻 **Backend Developer** at Zag Eng Club & passionate Full-Stack Engineer (.NET & Angular)[cite: 1].
-* 🛠️ Skilled in building scalable backend services, RESTful APIs, and responsive web applications[cite: 1].
-* 🤖 Deepening knowledge in Machine Learning, Data Analysis, and Generative AI[cite: 1].
-* 📍 Based in Cairo / Giza, Egypt[cite: 1].
+* 🎓 **Computer Science Student** specializing in **Artificial Intelligence** at Ahram Canadian University.
+* 💻 **Backend Developer** at Zag Eng Club & passionate Full-Stack Engineer (.NET & Angular).
+* 🛠️ Skilled in building scalable backend services, RESTful APIs, and responsive web applications.
+* 🤖 Deepening knowledge in Machine Learning, Data Analysis, and Generative AI.
+* 📍 Based in Cairo / Giza, Egypt.
 
 ---
 
