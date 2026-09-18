@@ -67,10 +67,10 @@
 
 ### 🚀 Tech Stack Overview
 
-- **Software Engineering:** OOP, SOLID Principles, Design Patterns, Data Structures, Git / GitHub[cite: 1]
-- **Frontend:** HTML5, CSS3, JavaScript, TypeScript, Angular, Bootstrap, Tailwind CSS[cite: 1]
-- **Backend:** C#, ASP.NET Core, Entity Framework Core, SQL Server, LINQ, RESTful APIs, Web API[cite: 1]
-- **AI & Data Science:** Machine Learning, Data Preprocessing, Pandas, NumPy, Scikit-learn, Generative AI, Prompt Engineering[cite: 1]
+- **Software Engineering:** OOP, SOLID Principles, Design Patterns, Data Structures, Git / GitHub.
+- **Frontend:** HTML5, CSS3, JavaScript, TypeScript, Angular, Bootstrap, Tailwind CSS.
+- **Backend:** C#, ASP.NET Core, Entity Framework Core, SQL Server, LINQ, RESTful APIs, Web API.
+- **AI & Data Science:** Machine Learning, Data Preprocessing, Pandas, NumPy, Scikit-learn, Generative AI, Prompt Engineering.
 
 ---
 
